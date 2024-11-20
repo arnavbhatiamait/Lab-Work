@@ -1,0 +1,6 @@
+*.keras
+*.h5
+archive (6)/
+Data/
+MRIDataset/
+output/
